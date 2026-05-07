@@ -41,12 +41,8 @@ app.get("/animals/:animal", (req, res) => {
       .status(404)
       .json({ success: false, message: "Animal not found" });
 
-  const breeds = data.breeds.map((b) => ({
-    name_en: b.name_en,
-    name_ar: b.name_ar,
-  }));
-
-  res.json({ success: true, animal, breeds });
+  // ✅ رجّع كل البيانات مش الاسم بس
+  res.json({ success: true, animal, breeds: data.breeds });
 });
 
 // معلومات الفصيلة
