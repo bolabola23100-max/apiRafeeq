@@ -1,0 +1,27 @@
+{
+  "animal": "dogs",
+  "breeds": [
+    {
+      "name_en": "Golden Retriever",
+      "name_ar": "جولدن ريتريفر",
+      "average_life": "10-12 years",
+      "allowed_food": "Dry dog food, chicken, rice",
+      "forbidden_food": "Chocolate, grapes, onions",
+      "care": "Daily exercise and brushing",
+      "behavior_tips": "Friendly and good with families",
+      "general_info": "One of the most popular family dogs.",
+      "image": "https://images.dog.ceo/breeds/retriever-golden/n02099601_3004.jpg"
+    },
+    {
+      "name_en": "Husky",
+      "name_ar": "هاسكي",
+      "average_life": "12-15 years",
+      "allowed_food": "High protein dog food",
+      "forbidden_food": "Chocolate, sweets",
+      "care": "Needs cold weather and high activity",
+      "behavior_tips": "Energetic and playful",
+      "general_info": "Originated from Siberia.",
+      "image": "https://images.dog.ceo/breeds/husky/n02110185_1469.jpg"
+    }
+  ]
+}
