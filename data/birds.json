@@ -1,0 +1,73 @@
+{
+  "animal": "birds",
+  "breeds": [
+    {
+      "name_en": "Parrot",
+      "name_ar": "ببغاء",
+      "average_life_en": "20-60 years",
+      "average_life_ar": "20-60 سنة",
+      "allowed_food_en": "Seeds, fruits, vegetables",
+      "allowed_food_ar": "حبوب، فواكه، خضروات",
+      "forbidden_food_en": "Chocolate, avocado",
+      "forbidden_food_ar": "الشوكولاتة، الأفوكادو",
+      "care_en": "Needs large cage and social interaction",
+      "care_ar": "يحتاج قفص واسع وتفاعل اجتماعي",
+      "behavior_tips_en": "Very intelligent and talkative",
+      "behavior_tips_ar": "ذكي ويتعلم الكلام",
+      "general_info_en": "Known for mimicking sounds",
+      "general_info_ar": "يشتهر بتقليد الأصوات",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Parrot.jpg"
+    },
+    {
+      "name_en": "Cockatiel",
+      "name_ar": "كوكتيل",
+      "average_life_en": "15-25 years",
+      "average_life_ar": "15-25 سنة",
+      "allowed_food_en": "Seeds and pellets",
+      "allowed_food_ar": "حبوب وطعام مخصص",
+      "forbidden_food_en": "Chocolate",
+      "forbidden_food_ar": "الشوكولاتة",
+      "care_en": "Needs interaction daily",
+      "care_ar": "يحتاج تفاعل يومي",
+      "behavior_tips_en": "Friendly and calm",
+      "behavior_tips_ar": "ودود وهادئ",
+      "general_info_en": "Popular pet bird",
+      "general_info_ar": "من أشهر طيور الزينة",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Cockatiel.jpg"
+    },
+    {
+      "name_en": "Canary",
+      "name_ar": "كناري",
+      "average_life_en": "10-15 years",
+      "average_life_ar": "10-15 سنة",
+      "allowed_food_en": "Seeds and greens",
+      "allowed_food_ar": "حبوب وخضروات",
+      "forbidden_food_en": "Chocolate",
+      "forbidden_food_ar": "الشوكولاتة",
+      "care_en": "Needs clean cage",
+      "care_ar": "يحتاج قفص نظيف",
+      "behavior_tips_en": "Loves singing",
+      "behavior_tips_ar": "يشتهر بصوته الجميل",
+      "general_info_en": "Famous singing bird",
+      "general_info_ar": "طائر مشهور بالغناء",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Canary.jpg"
+    },
+    {
+      "name_en": "Budgerigar",
+      "name_ar": "بادجي",
+      "average_life_en": "5-10 years",
+      "average_life_ar": "5-10 سنوات",
+      "allowed_food_en": "Seeds and fruits",
+      "allowed_food_ar": "حبوب وفواكه",
+      "forbidden_food_en": "Avocado",
+      "forbidden_food_ar": "الأفوكادو",
+      "care_en": "Needs social interaction",
+      "care_ar": "يحتاج تفاعل",
+      "behavior_tips_en": "Active and playful",
+      "behavior_tips_ar": "نشيط ومرح",
+      "general_info_en": "Small colorful parrot",
+      "general_info_ar": "ببغاء صغير ملون",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Budgerigar.jpg"
+    }
+  ]
+}
