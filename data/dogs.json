@@ -16,9 +16,8 @@
       "behavior_tips_ar": "ودود ومناسب للعائلات",
       "general_info_en": "One of the most popular family dogs",
       "general_info_ar": "من أشهر كلاب العائلات",
-      "image": "https://images.dog.ceo/breeds/retriever-golden/n02099601_3004.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/12.24_%E5%89%AF%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C2019%E8%80%B6%E8%AA%95%E6%84%9F%E6%81%A9%E6%B4%BB%E5%8B%95%E3%80%8D_%2849271006958%29.jpg"
     },
-
     {
       "name_en": "Labrador Retriever",
       "name_ar": "لابرادور ريتريفر",
@@ -34,9 +33,8 @@
       "behavior_tips_ar": "اجتماعي وذكي جدًا",
       "general_info_en": "Popular worldwide",
       "general_info_ar": "مشهور عالميًا",
-      "image": "https://images.dog.ceo/breeds/labrador/n02099712_5647.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Yellow_Labrador_Retriever_2.jpg"
     },
-
     {
       "name_en": "German Shepherd",
       "name_ar": "جيرمن شيبرد",
@@ -52,9 +50,8 @@
       "behavior_tips_ar": "وفيّ وحامي",
       "general_info_en": "Often used in police work",
       "general_info_ar": "يستخدم في أعمال الشرطة",
-      "image": "https://images.dog.ceo/breeds/germanshepherd/n02106662_1003.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Pastor_aleman_a.jpg"
     },
-
     {
       "name_en": "Husky",
       "name_ar": "هاسكي",
@@ -70,9 +67,8 @@
       "behavior_tips_ar": "نشيط ومرح",
       "general_info_en": "Originated from Siberia",
       "general_info_ar": "أصله من سيبيريا",
-      "image": "https://images.dog.ceo/breeds/husky/n02110185_1469.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Siberian_Husky_-_Mika.jpg"
     },
-
     {
       "name_en": "Rottweiler",
       "name_ar": "روت وايلر",
@@ -88,9 +84,8 @@
       "behavior_tips_ar": "وفيّ وحامي",
       "general_info_en": "Strong guard dog",
       "general_info_ar": "كلب حراسة قوي",
-      "image": "https://images.dog.ceo/breeds/rottweiler/n02106550_10195.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Rottweiler_Moletai_May_2014.2.jpg"
     },
-
     {
       "name_en": "Poodle",
       "name_ar": "بودل",
@@ -106,7 +101,7 @@
       "behavior_tips_ar": "ذكي جدًا",
       "general_info_en": "Known for curly coat",
       "general_info_ar": "يتميز بفرو مجعد",
-      "image": "https://images.dog.ceo/breeds/poodle-standard/n02113712_1201.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Miniature_Poodle_%28Hungary%29.jpg"
     },
     {
       "name_en": "Chihuahua",
@@ -123,9 +118,8 @@
       "behavior_tips_ar": "يقظ ونشيط",
       "general_info_en": "One of the smallest dog breeds",
       "general_info_ar": "من أصغر سلالات الكلاب",
-      "image": "https://images.dog.ceo/breeds/chihuahua/n02085620_10074.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Chihuahuas-_Holly%2C_Nina%2C_Doralice.jpg"
     },
-
     {
       "name_en": "Bulldog",
       "name_ar": "بولدوغ",
@@ -140,10 +134,9 @@
       "behavior_tips_en": "Calm and affectionate",
       "behavior_tips_ar": "هادئ ومحب",
       "general_info_en": "Recognized by its wrinkled face",
-      "general_info_ar": "معروف بوجهه المجعد",
-      "image": "https://images.dog.ceo/breeds/bulldog-english/jager-1.jpg"
+      "general_info_ar": "معروف بووجه المجعد",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Racib%C3%B3rz_2007_082.jpg"
     },
-
     {
       "name_en": "Doberman",
       "name_ar": "دوبرمان",
@@ -159,9 +152,8 @@
       "behavior_tips_ar": "وفي جدًا",
       "general_info_en": "Excellent guard dog",
       "general_info_ar": "كلب حراسة ممتاز",
-      "image": "https://images.dog.ceo/breeds/doberman/n02107142_11012.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Dobermann_Father-and-son.jpg"
     },
-
     {
       "name_en": "Boxer",
       "name_ar": "بوكسر",
@@ -177,9 +169,8 @@
       "behavior_tips_ar": "مرح ونشيط",
       "general_info_en": "Strong and muscular breed",
       "general_info_ar": "سلالة قوية وعضلية",
-      "image": "https://images.dog.ceo/breeds/boxer/n02108089_1.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Boxer_female_brown.jpg"
     },
-
     {
       "name_en": "Shih Tzu",
       "name_ar": "شيه تزو",
@@ -195,9 +186,8 @@
       "behavior_tips_ar": "رفيق ودود",
       "general_info_en": "Originated in China",
       "general_info_ar": "أصله من الصين",
-      "image": "https://images.dog.ceo/breeds/shih-tzu/n02086240_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Shih_Tzu_portrait_show_dog.jpg"
     },
-
     {
       "name_en": "Beagle",
       "name_ar": "بيجل",
@@ -213,9 +203,8 @@
       "behavior_tips_ar": "فضولي وودود",
       "general_info_en": "Originally bred for hunting",
       "general_info_ar": "تم تربيته للصيد",
-      "image": "https://images.dog.ceo/breeds/beagle/n02088364_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/2_Beagles.jpg"
     },
-
     {
       "name_en": "Dachshund",
       "name_ar": "داشهند",
@@ -231,9 +220,8 @@
       "behavior_tips_ar": "شجاع وحيوي",
       "general_info_en": "Known for long body",
       "general_info_ar": "يتميز بجسمه الطويل",
-      "image": "https://images.dog.ceo/breeds/dachshund/n02089867_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/MiniDachshund1_wb.jpg"
     },
-
     {
       "name_en": "Great Dane",
       "name_ar": "جريت دان",
@@ -249,7 +237,7 @@
       "behavior_tips_ar": "عملاق لطيف",
       "general_info_en": "One of the tallest breeds",
       "general_info_ar": "من أطول السلالات",
-      "image": "https://images.dog.ceo/breeds/great-dane/n02109047_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/8675eds_win.jpg"
     },
     {
       "name_en": "Border Collie",
@@ -266,9 +254,8 @@
       "behavior_tips_ar": "ذكي جدًا",
       "general_info_en": "One of the smartest dog breeds",
       "general_info_ar": "من أذكى سلالات الكلاب",
-      "image": "https://images.dog.ceo/breeds/collie-border/n02106166_355.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Argentine_border_collie.jpg"
     },
-
     {
       "name_en": "Cocker Spaniel",
       "name_ar": "كوكر سبانيل",
@@ -284,9 +271,8 @@
       "behavior_tips_ar": "لطيف ومحب",
       "general_info_en": "Popular companion dog",
       "general_info_ar": "كلب منزلي محبوب",
-      "image": "https://images.dog.ceo/breeds/spaniel-cocker/n02102318_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Zahir_the_English_Cocker_Spaniel.jpg"
     },
-
     {
       "name_en": "Maltese",
       "name_ar": "مالتيز",
@@ -302,9 +288,8 @@
       "behavior_tips_ar": "مرح وودود",
       "general_info_en": "Known for white silky coat",
       "general_info_ar": "يتميز بفرو أبيض حريري",
-      "image": "https://images.dog.ceo/breeds/maltese/n02085936_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Maltezer_Vereniging_Belgie.jpg"
     },
-
     {
       "name_en": "Akita",
       "name_ar": "أكيتا",
@@ -320,9 +305,8 @@
       "behavior_tips_ar": "وفي لكنه مستقل",
       "general_info_en": "Originated in Japan",
       "general_info_ar": "أصله من اليابان",
-      "image": "https://images.dog.ceo/breeds/akita/Akita_inu_blanc.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Akita_inu_criado_por_Tsutsui_Kennel.jpg"
     },
-
     {
       "name_en": "Saint Bernard",
       "name_ar": "سانت برنارد",
@@ -338,9 +322,8 @@
       "behavior_tips_ar": "لطيف وودود",
       "general_info_en": "Famous rescue dog",
       "general_info_ar": "مشهور بعمليات الإنقاذ",
-      "image": "https://images.dog.ceo/breeds/stbernard/n02109525_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Rey_nieve.jpg"
     },
-
     {
       "name_en": "Chow Chow",
       "name_ar": "تشاو تشاو",
@@ -356,9 +339,8 @@
       "behavior_tips_ar": "هادئ لكنه وفي",
       "general_info_en": "Known for lion-like appearance",
       "general_info_ar": "يشبه الأسد في شكله",
-      "image": "https://images.dog.ceo/breeds/chow/n02112137_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/01_Chow_Chow.jpg"
     },
-
     {
       "name_en": "Pit Bull",
       "name_ar": "بيتبول",
@@ -374,7 +356,7 @@
       "behavior_tips_ar": "قوي ووفى",
       "general_info_en": "Misunderstood but loving breed",
       "general_info_ar": "سلالة محبة رغم سمعتها",
-      "image": "https://images.dog.ceo/breeds/terrier-pitbull/n02093256_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Pit_bull_taro.jpg"
     },
     {
       "name_en": "Australian Shepherd",
@@ -391,9 +373,8 @@
       "behavior_tips_ar": "ذكي ونشيط جدًا",
       "general_info_en": "Excellent herding dog",
       "general_info_ar": "كلب رعي ممتاز",
-      "image": "https://images.dog.ceo/breeds/australian-shepherd/forest.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Aussi.jpg"
     },
-
     {
       "name_en": "Basset Hound",
       "name_ar": "باسيت هاوند",
@@ -409,9 +390,8 @@
       "behavior_tips_ar": "هادئ وودود",
       "general_info_en": "Known for long ears",
       "general_info_ar": "معروف بأذنيه الطويلتين",
-      "image": "https://images.dog.ceo/breeds/hound-basset/n02088238_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Basset_Hound_600.jpg"
     },
-
     {
       "name_en": "Shiba Inu",
       "name_ar": "شيبا إينو",
@@ -427,9 +407,8 @@
       "behavior_tips_ar": "مستقل ويقظ",
       "general_info_en": "Popular Japanese breed",
       "general_info_ar": "سلالة يابانية مشهورة",
-      "image": "https://images.dog.ceo/breeds/shiba/shiba-13.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Shiba_inu_taiki.jpg"
     },
-
     {
       "name_en": "Newfoundland",
       "name_ar": "نيوفاوندلاند",
@@ -445,9 +424,8 @@
       "behavior_tips_ar": "لطيف وصبور",
       "general_info_en": "Great swimmer and rescue dog",
       "general_info_ar": "سباح ممتاز ويستخدم في الإنقاذ",
-      "image": "https://images.dog.ceo/breeds/newfoundland/n02111277_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/201210071658d.jpg"
     },
-
     {
       "name_en": "Pug",
       "name_ar": "باج",
@@ -463,9 +441,8 @@
       "behavior_tips_ar": "مرح ومحب",
       "general_info_en": "Known for wrinkled face",
       "general_info_ar": "يتميز بوجه مجعد",
-      "image": "https://images.dog.ceo/breeds/pug/n02110958_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/2.5-year-old_fawn_male_pug.jpg"
     },
-
     {
       "name_en": "Alaskan Malamute",
       "name_ar": "ألاسكان مالاموت",
@@ -481,9 +458,8 @@
       "behavior_tips_ar": "قوي ونشيط",
       "general_info_en": "Working sled dog",
       "general_info_ar": "كلب جر الزلاجات",
-      "image": "https://images.dog.ceo/breeds/malamute/n02110063_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Alaskan_Malamute.jpg"
     },
-
     {
       "name_en": "Weimaraner",
       "name_ar": "فايمارانر",
@@ -499,9 +475,8 @@
       "behavior_tips_ar": "نشيط ووفى",
       "general_info_en": "Originally a hunting dog",
       "general_info_ar": "كلب صيد أصلاً",
-      "image": "https://images.dog.ceo/breeds/weimaraner/n02092339_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Weimaraner_Amigo.jpg"
     },
-
     {
       "name_en": "Samoyed",
       "name_ar": "سامويد",
@@ -517,9 +492,8 @@
       "behavior_tips_ar": "ودود ولطيف",
       "general_info_en": "Known for its white fluffy coat",
       "general_info_ar": "يتميز بفرو أبيض كثيف",
-      "image": "https://images.dog.ceo/breeds/samoyed/n02111889_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Samojed00.jpg"
     },
-
     {
       "name_en": "Boston Terrier",
       "name_ar": "بوستن تيرير",
@@ -535,7 +509,7 @@
       "behavior_tips_ar": "ودود وحيوي",
       "general_info_en": "Known as the American Gentleman",
       "general_info_ar": "يُلقب بالسيد الأمريكي",
-      "image": "https://images.dog.ceo/breeds/terrier-boston/n02096585_11136.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/BOSTON_TERRIER%2C_Ving%C3%A5rdens_Essi_von_Richards_%2823995273800%29.2.jpg"
     }
   ]
 }
